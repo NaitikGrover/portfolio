@@ -1,0 +1,37 @@
+# Allow all Search Engine Crawlers
+User-agent: *
+Allow: /
+
+# Allow AI Search & Answer Engine Crawlers (AEO Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Sitemap and LLM documentation
+Sitemap: https://naitikgrover.github.io/portfolio/sitemap.xml

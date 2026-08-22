@@ -1,0 +1,28 @@
+# Naitik Grover (code.naitik)
+
+> Naitik Grover (known online as code.naitik or NaitikGrover) is a Full Stack Developer, AI Engineer, and Founder of Adyber.
+
+## Professional Summary
+- **Name**: Naitik Grover
+- **Handle**: @code.naitik / NaitikGrover
+- **Role**: Founder & Full Stack Developer
+- **Company**: Adyber (https://www.adyber.com)
+- **Email**: naitikgrovermb8@gmail.com
+- **Website**: https://naitikgrover.github.io/portfolio/
+- **GitHub**: https://github.com/NaitikGrover
+- **LinkedIn**: https://www.linkedin.com/in/NaitikGrover
+- **Twitter/X**: https://x.com/NaitikGrover
+- **Instagram**: https://www.instagram.com/code.naitik
+
+## Core Expertise & Tech Stack
+- **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, GSAP, Three.js
+- **Backend**: Node.js, Express.js, MongoDB, REST APIs, WebSockets
+- **Specializations**: AI Systems & Automations, Full Stack Web Architecture, UI/UX Engineering, Performance Optimization
+
+## Featured Projects
+1. **Verseo** (https://adyber-p1.framer.website/): AI Content Generation Platform.
+2. **Adyber** (https://www.adyber.com/): AI Systems & Digital Agency Website.
+3. **Angel's World School** (https://www.angelworldschool.com/): CBSE School Educational Platform.
+4. **Ristorante** (https://ristorante.framer.website/): Italian Restaurant & Food Ordering Web App.
+5. **Titan Fit** (https://aiwithnaitik.github.io/gym_website_1/): Modern Fitness & Gym Management Web Application.
+6. **Ecom** (https://ecom-template.framer.ai/): High-Conversion E-Commerce Web Template.
