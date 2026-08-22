@@ -69,30 +69,41 @@ exp_3_role - {Working with Organizations}
 exp_3_company - {Adyber}
 exp_3_desc - {Collaborating with organizations to build high-quality web platforms, AI solutions, and scalable systems. Delivering production-ready applications tailored to business needs.}
 ## Work & Projects
-project_1_title - {tital fit}
-project_1_category - {website}
-project_1_tools - {react js, js, vite, css}
-project_1_image - {/images/projects/gym.png}
+project_1_title - {Verseo}
+project_1_category - {AI Content Platform}
+project_1_tools - {Framer, React, TypeScript, Tailwind CSS}
+project_1_image - {/images/projects/p1.png}
+project_1_url - {https://adyber-p1.framer.website/}
 
-project_2_title - {Angels World School}
-project_2_category - {Educational Website}
-project_2_tools - {WordPress, PHP, Custom CSS, SEO}
-project_2_image - {/images/projects/angelsworldschool.png}
+project_2_title - {Adyber}
+project_2_category - {Software Agency Website}
+project_2_tools - {Next.js, TypeScript, Tailwind CSS, Framer Motion}
+project_2_image - {/images/projects/p2.png}
+project_2_url - {https://www.adyber.com/}
 
-project_3_title - {Adyber}
-project_3_category - {Software Agency Website}
-project_3_tools - {Next.js, TypeScript, Tailwind CSS, Framer Motion}
-project_3_image - {/images/projects/adyber.png}
+project_3_title - {Angel's World School}
+project_3_category - {Educational Website}
+project_3_tools - {WordPress, PHP, Custom CSS, SEO}
+project_3_image - {/images/projects/p3.png}
+project_3_url - {https://www.angelworldschool.com/}
 
-project_4_title - {The Brothers Dhaba}
-project_4_category - {Restaurant & Food Ordering Website}
-project_4_tools - {WordPress, WooCommerce, PHP, Custom CSS}
-project_4_image - {/images/projects/thebrothersdhaba.png}
+project_4_title - {Ristorante}
+project_4_category - {Restaurant Website}
+project_4_tools - {Framer, React, Motion, Custom Styling}
+project_4_image - {/images/projects/p4.png}
+project_4_url - {https://ristorante.framer.website/}
 
-project_5_title - {Adyber Chat}
-project_5_category - {Real-time Chat}
-project_5_tools - {React.js, Node.js, Socket.io, CSS}
-project_5_image - {/images/projects/adyber chat.png}
+project_5_title - {Titan Fit}
+project_5_category - {Fitness & Gym Website}
+project_5_tools - {React.js, JavaScript, Vite, CSS}
+project_5_image - {/images/projects/p5.png}
+project_5_url - {https://aiwithnaitik.github.io/gym_website_1/}
+
+project_6_title - {Ecom}
+project_6_category - {E-Commerce Website}
+project_6_tools - {Framer, React, TypeScript, Responsive Web Design}
+project_6_image - {/images/projects/p6.png}
+project_6_url - {https://ecom-template.framer.ai/}
 
 leave this as  it is for now 
 
