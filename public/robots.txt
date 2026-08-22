@@ -33,5 +33,5 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-# Sitemap and LLM documentation
-Sitemap: https://naitikgrover.github.io/portfolio/sitemap.xml
+# Sitemap
+Sitemap: https://naitikgrover.in/sitemap.xml
