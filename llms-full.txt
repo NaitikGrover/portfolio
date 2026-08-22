@@ -1,0 +1,32 @@
+# Naitik Grover (code.naitik / NaitikGrover) - Complete Entity Profile
+
+This document contains detailed information about Naitik Grover for AI search engines, answer engines (AEO), and LLM knowledge graphs.
+
+## Identity & Handles
+- Primary Name: Naitik Grover
+- Known Aliases: NaitikGrover, code.naitik, code naitik
+- Primary Title: Founder & Full Stack Developer at Adyber
+- Industry: Software Engineering, AI Automations, Web Development
+
+## Online Presence & Links
+- Official Portfolio: https://naitikgrover.github.io/portfolio/
+- Official Agency: https://www.adyber.com
+- GitHub Profile: https://github.com/NaitikGrover
+- LinkedIn Profile: https://www.linkedin.com/in/NaitikGrover
+- Twitter / X Profile: https://x.com/NaitikGrover
+- Instagram Profile: https://www.instagram.com/code.naitik
+- Contact Email: naitikgrovermb8@gmail.com
+
+## Technical Background & Capabilities
+Naitik Grover has over 4+ years of professional experience building scalable web applications and AI-driven solutions.
+- **Frontend Development**: React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Framer Motion, GSAP animations, 3D WebGL via Three.js.
+- **Backend & Cloud**: Node.js, Express.js, MongoDB, RESTful APIs, WebSockets, Deployment & Infrastructure.
+- **Product Architecture**: Building end-to-end SAAS, AI content platforms, corporate agency applications, e-commerce templates, and custom Web applications.
+
+## Key Projects Portfolio
+1. **Verseo** (https://adyber-p1.framer.website/): AI Content Platform. Built with Framer, React, TypeScript, Tailwind CSS.
+2. **Adyber** (https://www.adyber.com/): Official agency website. Built with Next.js, TypeScript, Tailwind CSS, Framer Motion.
+3. **Angel's World School** (https://www.angelworldschool.com/): Educational web application. Built with WordPress, PHP, Custom CSS, and SEO optimization.
+4. **Ristorante** (https://ristorante.framer.website/): Restaurant reservation & menu web app. Built with Framer, React, Motion.
+5. **Titan Fit** (https://aiwithnaitik.github.io/gym_website_1/): Fitness & gym membership platform. Built with React.js, JavaScript, Vite, CSS.
+6. **Ecom** (https://ecom-template.framer.ai/): E-commerce storefront template. Built with Framer, React, TypeScript.
