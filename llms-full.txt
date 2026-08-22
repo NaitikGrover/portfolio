@@ -9,7 +9,7 @@ This document contains detailed information about Naitik Grover for AI search en
 - Industry: Software Engineering, AI Automations, Web Development
 
 ## Online Presence & Links
-- Official Portfolio: https://naitikgrover.github.io/portfolio/
+- Official Portfolio: https://naitikgrover.in/
 - Official Agency: https://www.adyber.com
 - GitHub Profile: https://github.com/NaitikGrover
 - LinkedIn Profile: https://www.linkedin.com/in/NaitikGrover
