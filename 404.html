@@ -3,9 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>Naitik Grover (codenaitik)</title>
-    <meta http-equiv="refresh" content="0;URL='/'">
     <script>
       sessionStorage.redirect = location.href;
+      var l = window.location;
+      if (l.pathname.startsWith('/portfolio')) {
+        l.replace(l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') + '/portfolio/');
+      } else {
+        l.replace(l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') + '/');
+      }
     </script>
   </head>
   <body>
